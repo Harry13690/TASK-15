@@ -31,8 +31,7 @@ public class Question_5 {
       }
 //    Step 5:
 //           * Run the Script by Right clicking the Script (or) Click the Run Symbol
-
-    public static void main(String[] args) {
+       public static void main(String[] args) {
         sampleScript();
     }
 }
